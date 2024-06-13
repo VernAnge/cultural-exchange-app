@@ -1,0 +1,39 @@
+[
+    {
+      "title": "Traditional South African Cuisine",
+      "content": "Explore the rich and diverse flavors of South African cuisine, from Bobotie to Biltong...",
+      "imagePath": "../../assets/images/cuisine.jpg",
+      "tags": ["Cuisine", "South Africa"]
+    },
+    {
+      "title": "Xhosa Culture and Traditions",
+      "content": "Learn about the Xhosa people, their traditions, language, and cultural significance...",
+      "imagePath": "../../assets/images/xhosa.jpg",
+      "tags": ["Culture", "Xhosa"]
+    },
+    {
+      "title": "Afrikaans Language Basics",
+      "content": "Get started with Afrikaans, a language spoken by many in Stellenbosch and across South Africa...",
+      "imagePath": "../../assets/images/afrikaans.jpg",
+      "tags": ["Language", "Afrikaans"]
+    },
+    {
+      "title": "Festivals and Celebrations in South Africa",
+      "content": "Discover the vibrant festivals and celebrations that take place throughout the year in South Africa...",
+      "imagePath": "../../assets/images/festival.jpg",
+      "tags": ["Festivals", "Celebrations"]
+    },
+    {
+      "title": "Student Life in Stellenbosch",
+      "content": "A guide to student life in Stellenbosch, including tips on accommodation, socializing, and local hotspots...",
+      "imagePath": "../../assets/images/stellies.jpg",
+      "tags": ["Student Life", "Stellenbosch"]
+    },
+    {
+      "title": "Music festival event",
+      "content": "Explore the transformative journey that each season brings to our environment and lives, from the blooming flowers of spring to the serene snow of winter...",
+      "imagePath": "../../assets/images/musical_festival.png",
+      "tags": ["Music"]
+    }
+  ]
+  
